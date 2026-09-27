@@ -8,7 +8,7 @@ export class PodioSession {
   private roomId: string;
   private ownerCredential?: string;
   private participantId?: string;
-  constructor(roomId: string, private readonly changed: (state: PodioState) => void, private readonly socketFactory: () => WebSocket = () => new WebSocket(import.meta.env.VITE_WS_URL ?? 'ws://localhost:3000/ws'), private readonly storage: Storage = sessionStorage) { this.roomId = roomId; }
+  constructor(roomId: string, private readonly changed: (state: PodioState) => void, private readonly socketFactory: () => WebSocket = () => new WebSocket(import.meta.env.VITE_WS_URL ?? 'https://el-sembrador.onrender.com/'), private readonly storage: Storage = sessionStorage) { this.roomId = roomId; }
   connect() {
     this.ownerCredential = this.storage.getItem(ownerKey(this.roomId)) ?? undefined;
     let identity: { participantId?: string; credential?: string } | null = null;

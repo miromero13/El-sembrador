@@ -10,7 +10,7 @@ export class PedregalSession {
   private welcomed = false;
   private participantId?: string;
   private pending = new Set<number>();
-  constructor(private readonly roomId: string, private readonly changed: (state: PedregalSessionState) => void, private readonly socketFactory: () => WebSocket = () => new WebSocket(import.meta.env.VITE_WS_URL ?? 'ws://localhost:3000/ws'), private readonly storage: Storage = sessionStorage) {}
+  constructor(private readonly roomId: string, private readonly changed: (state: PedregalSessionState) => void, private readonly socketFactory: () => WebSocket = () => new WebSocket(import.meta.env.VITE_WS_URL ?? 'https://el-sembrador.onrender.com/'), private readonly storage: Storage = sessionStorage) {}
   connect() { this.timer = setTimeout(() => this.open(), 400); }
   pick(cellId: number) {
     const state = this.state.pedregal;

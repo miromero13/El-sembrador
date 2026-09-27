@@ -16,7 +16,7 @@ const pages: Page[] = [
   { path: '/buena-tierra', title: 'La Buena Tierra', description: 'Respondé y descubrí cuánto creció tu planta.', stage: 4 },
   { path: '/podio', title: 'Podio Final', description: 'La cosecha de cada participante.', stage: 5 },
 ];
-const socketUrl = import.meta.env.VITE_WS_URL ?? 'ws://localhost:3000/ws';
+const socketUrl = import.meta.env.VITE_WS_URL ?? 'https://el-sembrador.onrender.com/';
 export function App() {
   const page = pages.find(item => item.path === window.location.pathname) ?? pages[0];
   const roomId = roomIdFromLocation(window.location.search);

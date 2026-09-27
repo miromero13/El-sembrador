@@ -12,7 +12,7 @@ export class CaminoSession {
   private intentionalClose = false;
   private welcomed = false;
   private expectedParticipantId?: string;
-  constructor(readonly roomId: string, private readonly changed: (state: CaminoSessionState) => void, private readonly socketFactory: () => WebSocket = () => new WebSocket(import.meta.env.VITE_WS_URL ?? 'ws://localhost:3000/ws'), private readonly storage: Storage = sessionStorage) {
+  constructor(readonly roomId: string, private readonly changed: (state: CaminoSessionState) => void, private readonly socketFactory: () => WebSocket = () => new WebSocket(import.meta.env.VITE_WS_URL ?? 'https://el-sembrador.onrender.com/'), private readonly storage: Storage = sessionStorage) {
     this.state = { status: 'connecting', roomId };
   }
   connect() {

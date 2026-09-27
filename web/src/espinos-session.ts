@@ -7,7 +7,7 @@ export class EspinosSession {
   private timer?: ReturnType<typeof setTimeout>;
   private welcomed = false;
   private participantId?: string;
-  constructor(private readonly roomId: string, private readonly changed: (state: EspinosSessionState) => void, private readonly socketFactory: () => WebSocket = () => new WebSocket(import.meta.env.VITE_WS_URL ?? 'ws://localhost:3000/ws'), private readonly storage: Storage = sessionStorage) {}
+  constructor(private readonly roomId: string, private readonly changed: (state: EspinosSessionState) => void, private readonly socketFactory: () => WebSocket = () => new WebSocket(import.meta.env.VITE_WS_URL ?? 'https://el-sembrador.onrender.com/'), private readonly storage: Storage = sessionStorage) {}
   connect() { this.timer = setTimeout(() => this.open(), 400); }
   move(x: number, y: number) { if (this.state.status === 'playing' && this.socket?.readyState === WebSocket.OPEN) this.socket.send(JSON.stringify({ type: 'moveEspinos', x, y })); }
   answer(index: number, answer: 'A' | 'B' | 'C') { if (this.state.status === 'trivia' && this.socket?.readyState === WebSocket.OPEN) this.socket.send(JSON.stringify({ type: 'answerTrivia', index, answer })); }

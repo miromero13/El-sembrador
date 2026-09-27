@@ -16,7 +16,7 @@ export class LobbySession {
   private pending: unknown[] = [];
   private earlyRoom?: Room;
   private pendingOwnerRoomId?: string;
-  constructor(private readonly changed: (state: SessionState, error?: string) => void, private readonly socketFactory: () => WebSocket = () => new WebSocket(import.meta.env.VITE_WS_URL ?? 'ws://localhost:3000/ws'), private readonly storage: Storage = sessionStorage) {}
+  constructor(private readonly changed: (state: SessionState, error?: string) => void, private readonly socketFactory: () => WebSocket = () => new WebSocket(import.meta.env.VITE_WS_URL ?? 'https://el-sembrador.onrender.com/'), private readonly storage: Storage = sessionStorage) {}
   connect() {
     this.intentionalClose = false;
     let socket: WebSocket;
