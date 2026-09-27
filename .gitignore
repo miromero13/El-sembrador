@@ -1,0 +1,13 @@
+# Local Pi runtime state
+.atl/
+
+.pi/
+
+.codegraph/
+
+odd/
+
+# Environment files (keep templates trackable)
+.env
+.env.*
+!.env.example

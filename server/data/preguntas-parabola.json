@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Dónde estaba Jesús al enseñar la parábola?",
+    "opciones": ["A) En el templo", "B) En una barca", "C) En un monte"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 2,
+    "pregunta": "Según Jesús, ¿qué representa la semilla?",
+    "opciones": ["A) Las buenas obras", "B) La palabra del reino", "C) El dinero"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué pasó con la semilla junto al camino?",
+    "opciones": ["A) Las aves la comieron", "B) El sol la quemó", "C) Dio poco fruto"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 4,
+    "pregunta": "¿A quién representan las aves?",
+    "opciones": ["A) A los enemigos", "B) Al maligno", "C) A los maestros"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Por qué brotó rápido la semilla en pedregales?",
+    "opciones": ["A) Por la mucha agua", "B) Por tener poca tierra", "C) Por el abono"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué secó a la planta en el pedregal?",
+    "opciones": ["A) El sol", "B) La lluvia", "C) El viento"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Por qué se secó la planta del pedregal?",
+    "opciones": ["A) No tenía raíz", "B) No tenía hojas", "C) Tenía gusanos"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Qué le pasó a la semilla entre espinos?",
+    "opciones": ["A) Fue pisada", "B) Fue ahogada", "C) Se pudrió"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué representan los espinos?",
+    "opciones": ["A) Afanes y riquezas", "B) Enfermedades", "C) Miedos"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Qué hace quien recibe la semilla en buena tierra?",
+    "opciones": ["A) La guarda", "B) Oye y entiende", "C) La vende"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Cuál es un rendimiento de la buena tierra?",
+    "opciones": ["A) A ciento por uno", "B) A diez por uno", "C) A mil por uno"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Dónde estaba la multitud mientras Jesús enseñaba?",
+    "opciones": ["A) En la playa", "B) En las casas", "C) En el monte"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué preguntaron los discípulos a Jesús?",
+    "opciones": ["A) ¿Por qué hablas en parábolas?", "B) ¿Cuándo comeremos?", "C) ¿Quién es el sembrador?"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Cuántos tipos de terreno se mencionan?",
+    "opciones": ["A) Tres", "B) Cuatro", "C) Seis"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué le falta al terreno junto al camino?",
+    "opciones": ["A) Entendimiento", "B) Dinero", "C) Tiempo"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Cómo recibe la palabra el de los pedregales?",
+    "opciones": ["A) Con gozo", "B) Con tristeza", "C) Con enojo"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué hace tropezar al de los pedregales?",
+    "opciones": ["A) La persecución", "B) La duda", "C) El cansancio"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Cómo queda la palabra entre espinos?",
+    "opciones": ["A) Infructuosa", "B) Cambiada", "C) Olvidada"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué frase dice Jesús al terminar la parábola?",
+    "opciones": ["A) El que tiene oídos, oiga", "B) Amad a vuestros enemigos", "C) Buscad y hallaréis"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué profeta es citado en Mateo 13?",
+    "opciones": ["A) Isaías", "B) Jeremías", "C) Daniel"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Qué hace el maligno con la semilla del camino?",
+    "opciones": ["A) La arrebata", "B) La quema", "C) La entierra"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 22,
+    "pregunta": "¿En qué capítulo de Mateo está la parábola?",
+    "opciones": ["A) Capítulo 5", "B) Capítulo 13", "C) Capítulo 20"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Qué otro rendimiento da la buena tierra?",
+    "opciones": ["A) A sesenta por uno", "B) A cincuenta por uno", "C) A veinte por uno"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Y cuál es el menor rendimiento mencionado de la buena tierra?",
+    "opciones": ["A) A treinta por uno", "B) A quince por uno", "C) A cinco por uno"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Quiénes desearon ver lo que veían los discípulos?",
+    "opciones": ["A) Reyes y profetas", "B) Fariseos", "C) Los romanos"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 26,
+    "pregunta": "¿De dónde salió Jesús antes de ir al mar?",
+    "opciones": ["A) De la casa", "B) Del templo", "C) Del desierto"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Qué les falta a los pedregales para aguantar el sol?",
+    "opciones": ["A) Raíz profunda", "B) Sombra", "C) Viento"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Quién es el personaje principal de la historia?",
+    "opciones": ["A) El sembrador", "B) El rey", "C) El pescador"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Qué hace la buena tierra con la semilla?",
+    "opciones": ["A) Da fruto", "B) La oculta", "C) La rechaza"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 30,
+    "pregunta": "¿A quiénes les fue dado conocer los misterios del reino?",
+    "opciones": ["A) A los discípulos", "B) A los escribas", "C) A la multitud"],
+    "respuesta_correcta": "A"
+  }
+]

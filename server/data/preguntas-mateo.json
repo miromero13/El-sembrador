@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Qué profesión tenía Mateo antes de seguir a Jesús?",
+    "opciones": ["A) Pescador", "B) Recaudador de impuestos", "C) Carpintero"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Con qué otro nombre se le conoce a Mateo en los Evangelios?",
+    "opciones": ["A) Leví", "B) Simón", "C) Tadeo"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Con qué símbolo tradicional se representa a Mateo en el arte cristiano?",
+    "opciones": ["A) Un león", "B) Un hombre alado (u ángel)", "C) Un águila"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 4,
+    "pregunta": "¿En qué orden se encuentra el Evangelio de Mateo en el Nuevo Testamento?",
+    "opciones": ["A) Primero", "B) Segundo", "C) Cuarto"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 5,
+    "pregunta": "¿A qué audiencia principal estaba dirigido el Evangelio de Mateo?",
+    "opciones": ["A) A los romanos", "B) A los judíos", "C) A los griegos"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿En qué región nació o vivió principalmente Mateo?",
+    "opciones": ["A) Galilea", "B) Egipto", "C) Roma"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 7,
+    "pregunta": "¿En qué ciudad trabajaba Mateo cuando Jesús lo llamó?",
+    "opciones": ["A) Jerusalén", "B) Capernaúm", "C) Nazaret"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Cómo se llama el famoso discurso de Jesús al inicio del Evangelio de Mateo?",
+    "opciones": ["A) El Sermón del Monte", "B) El Discurso del Olivar", "C) La Cena Final"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué lista importante abre el primer capítulo del Evangelio de Mateo?",
+    "opciones": ["A) La genealogía de Jesús", "B) Los diez mandamientos", "C) La lista de los apóstoles"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿A qué rey del Antiguo Testamento conecta Mateo la genealogía de Jesús?",
+    "opciones": ["A) David", "B) Saúl", "C) Salomón"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 11,
+    "pregunta": "¿A qué grupo pertenecía el trabajo de recaudar impuestos para Roma?",
+    "opciones": ["A) Publicanos", "B) Fariseos", "C) Zelotes"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 12,
+    "pregunta": "¿En qué idioma se cree que se redactó originalmente el Evangelio de Mateo?",
+    "opciones": ["A) Griego", "B) Latín", "C) Español"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Cuántos capítulos tiene el Evangelio según San Mateo?",
+    "opciones": ["A) 16 capítulos", "B) 28 capítulos", "C) 40 capítulos"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué personajes sabios del Oriente visitan a Jesús recién nacido solo en Mateo?",
+    "opciones": ["A) Los Reyes Magos", "B) Los pastores", "C) Los profetas"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Quién era el padre de Mateo según el Evangelio de Marcos?",
+    "opciones": ["A) Alfeo", "B) Zebedeo", "C) Jonás"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué frase o concepto usa frecuentemente Mateo en lugar de 'Reino de Dios'?",
+    "opciones": ["A) Reino de los Cielos", "B) Reino de la Tierra", "C) Imperio Santo"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué hizo Mateo inmediatamente después de que Jesús lo llamara?",
+    "opciones": ["A) Un gran banquete en su casa", "B) Un viaje a Roma", "C) Fue al templo a orar"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Qué mandato final da Jesús al concluir el Evangelio de Mateo?",
+    "opciones": ["A) La Gran Comisión (haced discípulos)", "B) Guardar silencio sobre sus milagros", "C) Volver a sus antiguos trabajos"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿En qué grupo de libros de la Biblia se ubica el escrito de Mateo?",
+    "opciones": ["A) Evangelios", "B) Cartas Paulinas", "C) Libros Históricos del AT"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué titulo mesiánico resalta Mateo para mostrar que Jesús cumple las profecías?",
+    "opciones": ["A) Hijo de David", "B) Rey de Roma", "C) Gran Sacerdote"],
+    "respuesta_correcta": "A"
+  }
+]
